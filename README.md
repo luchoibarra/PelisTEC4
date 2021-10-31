@@ -10,7 +10,6 @@ Demostrar la utilizacion de una API
 1. HTML
 1. CSS
 1. JavaScript
-1. Bootstrap
 
 #### Autores 
 - Luciano Ibarra
