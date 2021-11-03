@@ -1,5 +1,5 @@
 @font-face{
-  font-family: 'Playfair Display';
+  font-family: 'Poppins';
   src: url(static/thirdparty/fonts/Poppins/Poppins-ExtraBoldItalic) format('truetype');
 }
 
@@ -34,7 +34,7 @@
 }
 
 body{
-    background-image: url(img/background.jpg);
+    background-image: url(static/img/background.jpg);
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
