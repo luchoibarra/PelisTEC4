@@ -49,6 +49,10 @@ header{
     border-bottom: 2px solid white;
 }
 
+a:active {
+    color: yellow;
+}
+
 .search{
     background-color: transparent;
     border: 2px solid white;
