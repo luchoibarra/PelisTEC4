@@ -1,6 +1,6 @@
 @font-face{
   font-family: 'Playfair Display';
-  src: url(static\thirdparty\fonts\Poppins/Poppins-ExtraBoldItalic) format('truetype');
+  src: url(static/thirdparty/fonts/Poppins/Poppins-ExtraBoldItalic) format('truetype');
 }
 
 *{
