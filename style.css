@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap');
+@font-face{
+  font-family: 'Playfair Display';
+  src: url(static\thirdparty\fonts\Poppins/Poppins-ExtraBoldItalic) format('truetype');
+}
 
 *{
     box-sizing: border-box;
