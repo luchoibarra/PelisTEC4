@@ -12,7 +12,7 @@
     
 }
 
-.logo{
+#logo{
     object-fit:contain;
     width:100%
 }
@@ -34,7 +34,7 @@
 }
 
 body{
-    background-image: url(static/img/background.jpg);
+    background-image: url(img/background.jpg);
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
