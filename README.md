@@ -1,5 +1,5 @@
 # PelisTEC4
-![Tecnica 4](https://github.com/LuchitoBlanquito/PelisTEC4/blob/main/img/cropped-logo.jpg)
+![Tecnica 4](https://github.com/LuchitoBlanquito/PelisTEC4/blob/main/static/img/cropped-logo.jpg)
 
 Pelis Tec4 es una pagina web creada para mostrar un ejemplo de una web dedicada a peliculas con sus respectivos trailers , puntuacion, y descripcion de la misma. 
 
