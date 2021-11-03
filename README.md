@@ -16,3 +16,4 @@ Demostrar la utilizacion de una API
 - Gabriel Sandoval
 
 ##### Licencia
+Este proyecto está bajo la Licencia GPL-3.0 License - mira el archivo LICENSE.md para detalles
