@@ -1,7 +1,7 @@
 # PelisTEC4
 ![Tecnica 4](https://github.com/LuchitoBlanquito/PelisTEC4/blob/main/static/css/img/cropped-logo.jpg)
 
-Pelis Tec4 es una pagina web creada para mostrar un ejemplo de una web dedicada a peliculas con sus respectivos trailers , puntuacion, y descripcion de la misma. 
+Pelis Tec4 es una pagina web creada para mostrar un ejemplo de una web dedicada a peliculas con sus respectivos trailers, puntuacion, y descripcion de la misma. Utiliza la API de "The Movie Database (TMDB)".
 
 ## Objetivos de esta Pagina
 Demostrar la utilizacion de una API
