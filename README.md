@@ -1,19 +1,19 @@
 # PelisTEC4
 ![Tecnica 4](https://github.com/LuchitoBlanquito/PelisTEC4/blob/main/static/css/img/cropped-logo.jpg)
 
-Pelis Tec4 es una pagina web creada para mostrar un ejemplo de una web dedicada a peliculas con sus respectivos trailers, puntuacion, y descripcion de la misma. Utiliza la API de "The Movie Database (TMDB)".
+Pelis Tec4 is a website created to showcase an example of a movie-oriented web page with their respective trailers, ratings, and descriptions. It uses "The Movie Database (TMDB)" API.
 
-## Objetivos de esta Pagina
-Demostrar la utilizacion de una API
+## Objectives of this page
+Demonstrate the use of an API.
 
-### Tecnologias Utilizadas
+### Technologies Used
 1. HTML
 1. CSS
 1. JavaScript
 
-#### Autores 
+#### Autors
 - Luciano Ibarra
 - Gabriel Sandoval
 
-##### Licencia
-Este proyecto está bajo la Licencia GPL-3.0 License - mira el archivo LICENSE.md para detalles
+##### License
+This project is under the GPL-3.0 License - see the LICENSE.md file for details.
